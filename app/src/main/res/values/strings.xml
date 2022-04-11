@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="thu2">Thứ 2</string>
+    <string name="thu3">Thứ 3</string>
+    <string name="thu4">Thứ 4</string>
+    <string name="thu5">Thứ 5</string>
+    <string name="thu6">Thứ 6</string>
+    <string name="thu7">Thứ 7</string>
+    <string name="cn">Chủ nhật</string>
+    <string name="tem19">24°</string>
+    <string name="tem15">19°</string>
+    <string name="chi_so">CHỈ SỐ UV</string>
+    <string name="mat_troi">MẶT TRỜI LẶN</string>
+    <string name="gio">GIÓ</string>
+    <string name="luong_mua">LƯỢNG MƯA</string>
+    <string name="do_am">ĐỘ ẨM</string>
+    <string name="ap_suat">ÁP SUẤT</string>
+    <string name="text_chi_so">Tránh nắng\n đến 16:00</string>
+    <string name="note_chi_so">4\nTrung bình</string>
+    <string name="text_mat_troi">17:56</string>
+    <string name="note_mat_troi">MT mọc: 05:57</string>
+    <string name="text_lương_mua">1 mm\ntrong 24\n giờ qua</string>
+    <string name="note_lương_mua">Dự báo tiếp theo là\nmưa 1 mm vào Thứ Năm</string>
+    <string name="text_do_am">65%</string>
+    <string name="note_do_am">Điểm sương là 19°\nngay lúc này</string>
+    <string name="text_location">My Location</string>
+</resources>
